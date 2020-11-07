@@ -14,7 +14,7 @@ A simple 'three clicks' extension to save the tabs open in a Chrome window and l
 2. In Chrome: go to [chrome://extensions/](chrome://extensions/) **or** click the extension icon next to the search bar (the puzzle piece) and select *manage extensions*
 3. On the top right toggle-on *developer mode*
 4. On the left, click *load unpacked*
-5. Select the path to the root of the urlssaver folder
+5. Select the path to the root of the urls-saver-main folder
 
 To start the extension press: **Ctrl**+**Shift**+**F**
 
